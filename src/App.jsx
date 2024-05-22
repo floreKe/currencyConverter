@@ -29,7 +29,7 @@ function App() {
     justify-center items-center bg-cover bg-no-repeat"
       style={{
         backgroundImage:
-          "url(https://images.pexels.com/photos/4386149/pexels-photo-4386149.jpeg?auto=compress&cs=tinysrgb&w=400)",
+          "url(https://images.pexels.com/photos/1006060/pexels-photo-1006060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)",
       }}
     >
       <div className='w-full'>
